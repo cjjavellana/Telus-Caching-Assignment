@@ -1,0 +1,7 @@
+cache-demo/*/target
+cache-demo/*/.settings
+cache-demo/*/.project
+cache-demo/*/.classpath
+cache-demo/.settings
+cache-demo/.project
+cache-demo/.classpath
